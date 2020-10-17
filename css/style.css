@@ -70,7 +70,7 @@ p {
     line-height: 50px;
     margin-bottom: 15px;
     padding-left: 15px;
-    background-image: url(/img/arrow.svg);
+    background-image: url(../img/arrow.svg);
     background-repeat: no-repeat;
     background-position: right 10px center;
 }
